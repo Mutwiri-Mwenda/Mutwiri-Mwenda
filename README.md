@@ -43,4 +43,5 @@ Infra       Docker, JWT auth, file storage
 ### Reach me
 
 - 🐦 [@iMutwiiri](https://twitter.com/iMutwiiri)
+- mutwirimwenda24@gmail.com
 - 📍 Nairobi, Kenya (open to relocation)
